@@ -60,5 +60,5 @@ Para replicar esta análise localmente:
 2. Certifique-se de ter o Python 3 instalado.
 3. Instale as dependências executando: `pip install -r requirements.txt`
 4. O *dataset* `World Happiness Report 2019.csv` já se encontra na raiz do projeto (ou na pasta `/Data`).
-5. Abra o ficheiro `World_Happiness_Report_2019.ipynb` no Visual Studio Code, Jupyter Notebook ou faça o upload para o Google Colab para executar as células passo a passo.
+5. Abra o ficheiro `World_Happiness_Report_2019.ipynb` no Visual Studio Code, no própio GitHub, Jupyter Notebook ou faça o upload para o Google Colab para executar as células passo a passo.
 6. O relatório executivo final pode ser consultado diretamente abrindo o ficheiro PDF anexado neste repositório.
